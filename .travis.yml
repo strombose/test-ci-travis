@@ -6,5 +6,5 @@ os:
   - windows
 
 jobs:
-  test:
+  include:
     - script: echo 'Hello World!'
