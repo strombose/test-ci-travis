@@ -5,6 +5,4 @@ os:
   - osx
   - windows
 
-jobs:
-  include:
-    - script: echo 'Hello World!'
+script: echo 'Hello World!'
